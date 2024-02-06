@@ -1,0 +1,9 @@
+{
+    "editor.tabSize": 4,
+    "workbench.colorTheme": "Default Dark+",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "prettier.tabWidth": 4,
+    "files.autoSave": "onFocusChange"
+}
