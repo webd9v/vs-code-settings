@@ -4,6 +4,11 @@
     "editor.formatOnPaste": true,
     "editor.formatOnSave": true,
     "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[python]": {
+        "diffEditor.ignoreTrimWhitespace": false,
+        "editor.formatOnType": true,
+    },
     "prettier.tabWidth": 4,
-    "files.autoSave": "onFocusChange"
+    "files.autoSave": "afterDelay",
+    "editor.wordWrap": "on"
 }
